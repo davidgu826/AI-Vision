@@ -1,0 +1,3 @@
+If there are whiteboards, write down what is written on the board.
+If there are diagrams, describe the diagrams.
+If there are no diagrams or boards, resond with "None detected". if there is a computer, make sure it reads it. if there is a book, read as much of the book as possible
